@@ -8,6 +8,7 @@
                 "${config:idf.espIdfPathWin}/components/**",
                 "${config:idf.espAdfPath}/components/**",
                 "${config:idf.espAdfPathWin}/components/**",
+                "${config:idf.espAdfPathWin}/components/espressif__led_strip/**", 
                 "${workspaceFolder}/**"
             ],
             "browse": {
@@ -16,6 +17,7 @@
                     "${config:idf.espIdfPathWin}/components",
                     "${config:idf.espAdfPath}/components/**",
                     "${config:idf.espAdfPathWin}/components/**",
+                    "${config:idf.espAdfPathWin}/components/espressif__led_strip/**", 
                     "${workspaceFolder}"
                 ],
                 "limitSymbolsToIncludedHeaders": false

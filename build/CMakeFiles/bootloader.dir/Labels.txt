@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/CMakeFiles/bootloader
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/CMakeFiles/bootloader.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/CMakeFiles/bootloader-complete.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Programation/ESP32/ESP32_S3/DevBoard2.0/Timer_Class_LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
